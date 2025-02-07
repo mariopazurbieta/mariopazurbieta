@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mariopazurbieta
-- 👀 I’m interested in data science and forecasting models
-- 🌱 I’m currently learning math
+- 👀 I’m interested in data analytics and engineering
+- 🌱 I’m currently learning Google Cloud Platform
 - 📫 How to reach me mariopazurbieta@gmail.com
